@@ -1,0 +1,44 @@
+Here’s an introductory course on machine learning by two Stanford professors:
+It covers a lot of ground and yet the explanations are clear and understandable by beginners.
+https://www.r-bloggers.com/in-depth-introduction-to-machine-learning-in-15-hours-of-expert-videos/
+The book accompanying the course is also attached.
+(Trevor_Hastie_Robert_Tibshirani_The_Elements_of_Statistical_Learning_Data_Mining_Inference_and_Prediction_II_Edition_Springer_2009.pdf)
+ 
+Course by Andrew Ng on coursera is also at a beginner level:
+https://www.coursera.org/learn/machine-learning
+ 
+This course focuses on statistics rather than machine learning, but is the best introduction to statistics in my opinion. It has video lectures and a text book:
+https://www.openintro.org/stat/videos.php
+https://www.openintro.org/stat/textbook.php?stat_book=os
+ 
+The above three are the foundational courses. You can pick any one of the first two and the third (if you also want to learn statistics) to get started, although it would be best if you complete all three of them.
+ 
+On the implementation side, I would recommend learning python over R, especially if you’re interested in deep learning, or more interested in machine learning than statistics.
+ 
+The software stack consists of pandas for data preprocessing and scikit-learn for machine learning. These libraries use numpy, so it’s helpful to learn that as well.
+Here’s the online book on these that I found to be the most helpful:
+https://jakevdp.github.io/PythonDataScienceHandbook/
+ 
+ 
+After these, you can decide which topic you want to learn more:
+ 
+Mathematical foundations:
+The attached book – Larry_Wasserman_All_of_Statistics…..pdf - is a somewhat advanced book which captures the common things in statistics and machine learning and helps to give a sound understanding of the theory.
+ 
+Deep Learning:
+If you’re interested in deep learning then here’s a very small playlist to get started with:
+https://www.youtube.com/playlist?list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi
+ 
+After the above, you can go through the online book:
+http://neuralnetworksanddeeplearning.com/
+ 
+Here are two courses on deep learning which assume only programming skills and cover a lot of recent developments as well:
+http://course.fast.ai/
+http://course.fast.ai/part2.html
+ 
+ 
+Here’s a course on improving the modelling skills and will be helpful while applying machine learning to any problem:
+https://www.coursera.org/learn/competitive-data-science
+ 
+ 
+There are individual topics which can be looked into from here on – Bayesian Statistics, Categorical Data Analysis, Probabilistic Graphical Models etc.
