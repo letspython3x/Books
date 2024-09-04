@@ -9,6 +9,6 @@ This repository is a collection of famous books that a person who has keen to le
 6. [Designning Data Intensive Applications by Martin](https://github.com/letspython3x/Books/blob/master/designing-data-intensive-applications.pdf)
 7. [Alex Xu System Design May 2022](https://bytebyte-go.s3.amazonaws.com/ByteByteGo_LinkedIn_PDF.pdf)
 8. [Deep Learning by I. Goodfellow, Y. Bengio, A. Courville (MIT)](https://github.com/letspython3x/Books/blob/master/Deep%20Learning%2C%20I.%20Goodfellow%2C%20Y.%20Bengio%2C%20A.%20Courville%2C%20.pdf)
-
+9. [Algorithmic Trading with Interactive Brokers (Python and C++).pdf](https://github.com/letspython3x/Books/blob/master/Algorithmic%20Trading%20with%20Interactive%20Brokers%20(Python%20and%20C%2B%2B).pdf)
 
 # If this repository helps you in anyway, show your love :heart: by putting a :star: on this project :v:
